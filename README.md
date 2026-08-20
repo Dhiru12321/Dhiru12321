@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./assets/designer-boy.gif" alt="Designer at work animation" width="520" />
+
+  <br/>
+
   <img src="./assets/header.svg" alt="Dhirendra Kumar" width="100%" />
 
   <br/>
