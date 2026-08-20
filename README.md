@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="./assets/designer-boy.gif" alt="Designer at work animation" width="520" />
-
-  <br/>
-
-  <img src="./assets/header.svg" alt="Dhirendra Kumar" width="100%" />
+  <img src="./assets/designer-boy.gif" alt="Designer at work animation" width="220" />
 
   <br/>
 
@@ -16,19 +12,10 @@
   <img src="https://komarev.com/ghpvc/?username=Dhiru12321&label=Profile%20views&color=22d3ee&style=for-the-badge" alt="Profile views" />
 </div>
 
----
 
-## About me
-
-I am a **Computer Science graduate** from India who likes turning messy ideas into things people can actually use. I started on the frontend — React, JavaScript, CSS — then kept adding layers: APIs, Firebase, MongoDB, MySQL, Python, Java, and C++.
+I am a **Computer Science graduate** from India who likes turning messy ideas into things people can actually use. I started on the frontend with React, JavaScript, CSS, then kept adding layers: APIs, Firebase, MongoDB, MySQL, Python, Java, and C++.
 
 These days I split time between **product-facing web work** and **AI evaluation**. I write Harbor-style tasks, review agent behavior, and build the small tools that make that work faster. I care about clear requirements, honest tests, and software that still makes sense six months later.
-
-When I am not in a repo I am usually practicing DSA, polishing a UI, or taking a feature from “it works” to “it feels right”.
-
-- Based in **India**
-- Building **web apps**, **review tooling**, and **LLM evaluation tasks**
-- Open to **collaboration**, **internships**, and **full-time software roles**
 
 ---
 
@@ -58,20 +45,20 @@ SQL / Firebase / MongoDB   ███████░░░  project-ready
 
 ## Experience
 
-**Software engineer — AI evaluation & tooling**  
-*2026 — present · India*
+**Software engineer - AI evaluation & tooling**  
+*2026 present · India*
 
-I design evaluation tasks for coding agents, keep instruction / tests / oracle aligned, and build the React and Python surfaces around that loop. The work is part product engineering, part quality bar: if a task is vague or a test is gameable, it does not ship.
+I design evaluation tasks for coding agents, keep instruction/tests/oracle aligned, and build the React and Python surfaces around that loop. The work is part product engineering, part quality bar: if a task is vague or a test is gameable, it does not ship.
 
 **Frontend & full-stack builder**  
-*2023 — 2025 · personal and team projects*
+*2023 - 2025 · personal and team projects*
 
 Shipped websites and small products end to end: layouts, interaction, APIs, and data. Highlights include a live weather client, a personal portfolio, a calculator, and a Valentine experience with music and animation. Stack stayed practical — HTML, CSS, JavaScript, React, Firebase, MongoDB.
 
 **B.Tech, Computer Science**  
 *Chandigarh University*
 
-Coursework plus a lot of self-built projects. I used college years to get fluent in web fundamentals, then widened into Python, Java, C/C++, Git, and databases so I could own more of the stack.
+Coursework plus many self-built projects. I used my college years to become fluent in web fundamentals, then expanded into Python, Java, C/C++, Git, and databases so I could own more of the stack.
 
 ---
 
@@ -108,11 +95,6 @@ Coursework plus a lot of self-built projects. I used college years to get fluent
 ---
 
 ## GitHub pulse
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhiru12321&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=070b16&title_color=22d3ee&icon_color=a78bfa&text_color=cbd5e1" alt="Dhirendra's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhiru12321&layout=compact&theme=tokyonight&hide_border=true&bg_color=070b16&title_color=22d3ee&text_color=cbd5e1" alt="Top languages" />
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Dhiru12321&theme=tokyonight&hide_border=true&background=070b16&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee" alt="GitHub streak" />
